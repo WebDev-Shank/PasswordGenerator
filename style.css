@@ -52,6 +52,9 @@ button {
 .result__info.left {
 	left: 8px;
 }
+h2{
+	text-align: center;
+}
 .result__veiwbox {
 	width: 100%;
 	height: 100%;
